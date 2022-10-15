@@ -175,8 +175,8 @@ body{
 	margin-top: 30px;
 	margin-left: 32px;
 
-	/* width: 800px;
-	height: 1770px; */
+	width: 800px;
+	height: 1770px;
 	/* ini di matikan terutama width karena responsive width yang berubah tiap device */
 
 	/*border: 2px solid black;*/
@@ -186,8 +186,8 @@ body{
 	margin-top: 30px;
 	margin-left: 45px;
 
-	/* width: 350px;
-	height: 1770px; */
+	width: 350px;
+	height: 1770px;
 	/* ini di matikan terutama width karena responsive width yang berubah tiap device */
 
 	/*border: 2px solid black;*/
@@ -196,7 +196,7 @@ body{
 
 
 .contentLeft .top{
-	/* width: 650px; */
+	width: 650px;
 	/* ini di matikan terutama width karena responsive width yang berubah tiap device */
 
 	height: 110px;
@@ -217,7 +217,7 @@ body{
 
 
 .contentLeft .bottom{
-	/* width: 800px; */
+	width: 800px;
 	/* ini di matikan terutama width karena responsive width yang berubah tiap device */
 	height: 300px;
 /*	border: 2px solid black;
@@ -267,7 +267,7 @@ body{
 
 .contentLeft .bottom .text{
 	float: left;
-	/* width: 560px; */
+	width: 560px;
 	/* ini di matikan terutama width karena responsive width yang berubah tiap device */
 
 	height: 300px;
